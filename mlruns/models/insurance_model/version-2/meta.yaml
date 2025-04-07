@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744063793264
+current_stage: None
+description: null
+last_updated_timestamp: 1744063793264
+name: insurance_model
+run_id: baa29e6246154e5c962e8646651f2d64
+run_link: null
+source: file:///Users/shankii/Documents/mlops-project-main/mlruns/451749265542021844/baa29e6246154e5c962e8646651f2d64/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/shankii/Documents/mlops-project-main/mlruns/451749265542021844/baa29e6246154e5c962e8646651f2d64/artifacts/model
+user_id: null
+version: 2

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shankii/Documents/mlops-project-main/mlruns/451749265542021844/1556dffcb7554bdda58072100d34d05d/artifacts
+end_time: 1743985338279
+entry_point_name: ''
+experiment_id: '451749265542021844'
+lifecycle_stage: active
+run_id: 1556dffcb7554bdda58072100d34d05d
+run_name: merciful-eel-814
+run_uuid: 1556dffcb7554bdda58072100d34d05d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743985328020
+status: 3
+tags: []
+user_id: shankii

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/shankii/Documents/mlops-project-main/mlruns/451749265542021844/baa29e6246154e5c962e8646651f2d64/artifacts
+end_time: 1744063793266
+entry_point_name: ''
+experiment_id: '451749265542021844'
+lifecycle_stage: active
+run_id: baa29e6246154e5c962e8646651f2d64
+run_name: smiling-rat-950
+run_uuid: baa29e6246154e5c962e8646651f2d64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744063782799
+status: 3
+tags: []
+user_id: shankii
